@@ -1,7 +1,7 @@
 # BeWayTech
 
-![IT](./assets/it_team_logo.png)
-![IT](./assets/design_team_logo.png)
+![IT](../assets/it_team_logo.png)
+![IT](../assets/design_team_logo.png)
 
 ## English
 
